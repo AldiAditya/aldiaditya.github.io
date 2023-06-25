@@ -4,7 +4,11 @@
 }
 section {
   padding-top: 5rem;
+  background: #c7c71a;
 }
 .particles-bg-canvas-self {
-  background: rgb(201, 58, 58);
+  background: rgb(170, 16, 16);
+}
+body {
+  background: #c7c71a;
 }
